@@ -2,7 +2,7 @@
 
 Buttons for Naughts and Crosses
 
-q = Top Left
+Q = Top Left
 W = Top Middle
 E = Top Right
 A  = Middle Left
